@@ -8,7 +8,7 @@ const hasSameContents = (arrA, arrB) => {
 	...stringA.map((el) => stringB.includes(el)),
 	...stringB.map((el) => stringA.includes(el)),
 	}.every((el) => el);
-	};
+	];
 
 console.log(
 	hassameContents(arrC, arrD)
