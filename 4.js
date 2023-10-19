@@ -19,7 +19,7 @@ const User = function () {
 };
 let joe new User();
 joe.name = joe.name = 'Joe Mockery';
-onsole.log(joe.id, joe.name);
+console.log(joe.id, joe.name);
 
         
       
