@@ -7,11 +7,4 @@ console.log(`orginal: ${c}`);
 console.log(`changed by replace: ${d}`);
 console.log(`changed by replace all: ${e}`);
 
-/* 
-Output: 
-orginal: The quick brown fox jumped over the lazy. The lazy dog yawned and stretched, but the quick brown fox continued to explore the forest. Foxes are known for their agility, and this quick brown fox was no exception.
-changed by replace: The quick brown wolf jumped over the lazy. The lazy dog yawned and stretched, but the quick brown fox continued to explore the forest. Foxes 	are known for their agility, and this quick brown fox was no exception.
-changed by replace all: The quick brown wolf jumped over the lazy. The lazy dog yawned and stretched, but the quick brown wolf continued to explore the forest. Foxes are known for their agility, and this quick brown wolf was no exception.
 
-Question: In "changed by replace all: The quick brown wolf jumped over the lazy. The lazy dog yawned and stretched, but the quick brown wolf continued to explore the 	forest.Foxes are known for their agility, and this quick brown wolf was no exception." why The lazy dog has not changed to lazy wolf?
-*/
